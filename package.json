@@ -1,0 +1,10 @@
+{
+  "name": "gcore-timeline",
+  "version": "0.0.1",
+  "description": "Gcore timeline optimize extension.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "purplek <2kpurple@gmail.com>"
+}
